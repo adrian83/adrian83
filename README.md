@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian83&layout=compact&exclude_repo=adrian83.github.io)](https://github.com/adrian83)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian83&langs_count=8&layout=compact&exclude_repo=adrian83.github.io)](https://github.com/adrian83)
 
 
 <!--
